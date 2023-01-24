@@ -41,10 +41,15 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OmaRoiid&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<div align="center">    
+  <img src="https://github-readme-stats-i66v.vercel.app/api/top-langs/?username=omaroiid&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages"> <br>
+  <img src="https://streak-stats.demolab.com?    user=omaroiid&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
 
-[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmaRoiid&show_icons=true&theme=github_dark)](https://github.com/OmaRoiid/github-readme-stats)
+  <img src="https://github-readme-stats-i66v.vercel.app/api?username=omaroiid&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+</div> <br>
+</div> 
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmaRoiid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
